@@ -1,6 +1,6 @@
 {
   "Command Template": {
-    "prefix": "define-command",
+    "prefix": "+",
     "body": [
       "// @ts-check",
       "/**",
